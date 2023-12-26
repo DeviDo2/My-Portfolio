@@ -12,7 +12,7 @@
     border: 4px #2A0B50 solid;
     color: #2A0B50; 
     font-size: 24px; 
-    font-family: Noto Serif Gujarati; 
+    font-family: NotoSerifGujarati-Regular, sans-serif;
     font-weight: 400; 
     word-wrap: break-word;
     left: 47px; 
@@ -35,7 +35,7 @@
     border: 4px #2A0B50 solid;
     color: #2A0B50; 
     font-size: 24px; 
-    font-family: Noto Serif Gujarati; 
+    font-family: NotoSerifGujarati-Regular, sans-serif;
     font-weight: 400; 
     word-wrap: break-word;
     left: 65px; 
@@ -58,7 +58,7 @@
     border: 4px #2A0B50 solid;
     color: #2A0B50; 
     font-size: 24px; 
-    font-family: Noto Serif Gujarati; 
+    font-family: NotoSerifGujarati-Regular, sans-serif;
     font-weight: 400; 
     word-wrap: break-word;
     left: 53px; 
@@ -81,7 +81,7 @@
     border: 4px #2A0B50 solid;
     color: #2A0B50; 
     font-size: 24px; 
-    font-family: Noto Serif Gujarati; 
+    font-family: NotoSerifGujarati-Regular, sans-serif;
     font-weight: 400; 
     word-wrap: break-word;
     left: 65px; 
@@ -118,15 +118,83 @@
     top: 161px;
 
 }
-
 .body-1{
     width: 664.35px; 
     top: 25px; 
     position: absolute;
 }
 .body-2{
-    width: 1064px; 
+    width: 1140px; 
     left: 300px; 
-    top: 495px; 
+    top: 530px; 
     position: absolute;
+}
+.title-2{
+    width: 621px; 
+    height: 47.44px; 
+    left: 300px; 
+    top: 28px; 
+    position: absolute;
+}
+.aboutuspic-2{
+    width: 820px;
+    height: auto;
+    position: absolute;
+    left: 270px;
+    top: 117px;
+}
+.aboutuspic-3{
+    width: 415px;
+    height: auto;
+    position: absolute;
+    left: 1050px;
+    top: 117px;
+}
+.body-3{
+    position: absolute;
+    top: 530px;
+    width: 1140px;
+    text-indent: 70px;
+    text-align: justify;
+}
+.body-3-span{
+    color: #ffffff;
+    font-family: NotoSerifGujarati-Regular, sans-serif;
+    font-size: 20px;
+}
+.body-4{
+    position: absolute;
+    top: 630px;
+    width: 1140px;
+    text-indent: 70px;
+    text-align: justify;
+}
+.bodylink:link{
+    color: #ffffff;
+    font-family: NotoSerifGujarati-Regular, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: underline;
+}
+.bodylink:visited{
+    color: #ffffff;
+    font-family: NotoSerifGujarati-Regular, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+.body-5{
+    position: absolute;
+    left: 300px;
+    top: 1500px;
+    width: 590px;
+    height: 272px;
+}
+.aboutuspic-4{
+    width: 560px;
+    height: auto;
+    position: absolute;
+    left: 905px;
+    top: 1488px;
 }
