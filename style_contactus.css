@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+
+.navbutton-1:link, a:visited {
+    width: 200px; 
+    height: 44px; 
+    position: absolute; 
+    background: rgba(41.75, 11.44, 80.31, 0); 
+    border-radius: 22px; 
+    border: 4px #2A0B50 solid;
+    color: #2A0B50; 
+    font-size: 24px; 
+    font-family: NotoSerifGujarati-Regular, sans-serif;
+    font-weight: 400; 
+    word-wrap: break-word;
+    left: 47px; 
+    padding-top: 3px; 
+    top: 3px;
+    position: absolute; 
+    text-align: center;
+    text-decoration: none;
+}
+.navbutton-1:hover, a:active {
+    background-color: #2A0B50;
+    color: white;
+}
+.navbutton-2:link, a:visited {
+    width: 200px; 
+    height: 44px; 
+    position: absolute; 
+    background: rgba(41.75, 11.44, 80.31, 0); 
+    border-radius: 22px; 
+    border: 4px #2A0B50 solid;
+    color: #2A0B50; 
+    font-size: 24px; 
+    font-family: NotoSerifGujarati-Regular, sans-serif;
+    font-weight: 400; 
+    word-wrap: break-word;
+    left: 65px; 
+    padding-top: 3px;
+    top: 2px; 
+    position: absolute; 
+    text-align: center;
+    text-decoration: none;
+}
+.navbutton-2:hover, a:active {
+    background-color: #2A0B50;
+    color: white;
+}
+.navbutton-3:link, a:visited {
+    width: 200px; 
+    height: 44px; 
+    position: absolute; 
+    background: rgba(41.75, 11.44, 80.31, 0); 
+    border-radius: 22px; 
+    border: 4px #2A0B50 solid;
+    color: #2A0B50; 
+    font-size: 24px; 
+    font-family: NotoSerifGujarati-Regular, sans-serif;
+    font-weight: 400; 
+    word-wrap: break-word;
+    left: 53px; 
+    padding-top: 3px;
+    top: 3px;
+    position: absolute; 
+    text-align: center;
+    text-decoration: none;
+}
+.navbutton-3:hover, a:active {
+    background-color: #2A0B50;
+    color: white;
+}
+.navbutton-4:link, a:visited {
+    width: 200px; 
+    height: 44px; 
+    position: absolute; 
+    background: rgba(41.75, 11.44, 80.31, 0); 
+    border-radius: 22px; 
+    border: 4px #2A0B50 solid;
+    color: #2A0B50; 
+    font-size: 24px; 
+    font-family: NotoSerifGujarati-Regular, sans-serif;
+    font-weight: 400; 
+    word-wrap: break-word;
+    left: 65px; 
+    padding-top: 3px;
+    top: 2px; 
+    position: absolute; 
+    text-align: center;
+    text-decoration: none;
+}
+.navbutton-4:hover, a:active {
+    background-color: #2A0B50;
+    color: white;
+}
+
+.webtitle{
+    width: 173px; 
+    height: 44px; 
+    left: 127px; 
+    top: 5px; 
+    position: absolute; 
+    text-align: right;
+}
+.topline{
+    width: 300px; 
+    height: 0px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    border: 4px #2A0B50 solid;
+}
