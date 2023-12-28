@@ -1,6 +1,6 @@
 # My-Portfolio
-Russel Jewel A. De Vera
-I-CCSAD
+# Russel Jewel A. De Vera
+# I-CCSAD
 
-Era Marie Gannaban
-Web Development Tools
+# Era Marie Gannaban
+# Web Development Tools
