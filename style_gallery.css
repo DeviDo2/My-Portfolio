@@ -3,7 +3,13 @@
     padding: 0;
     box-sizing: border-box;
    }
-
+.navigation{
+    width: 866px; 
+    height: 44px; 
+    left: 537px; 
+    top: 37px; 
+    position: absolute;
+}
 .navbutton-1:link, a:visited {
     width: 200px; 
     height: 44px; 
@@ -96,7 +102,12 @@
     background-color: #2A0B50;
     color: white;
 }
-
+.website{
+    height: 44px; 
+    left: 0px; 
+    top: 37px; 
+    position: absolute;
+}
 .webtitle{
     width: 173px; 
     height: 44px; 
